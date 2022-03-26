@@ -1,0 +1,20 @@
+div {
+    background-color: lightcoral ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#subheader {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.dot-com {
+    font-size: 24px;
+}
+
+#body-text {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
