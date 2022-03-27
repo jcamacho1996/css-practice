@@ -1,0 +1,23 @@
+.para {
+    color: red;
+}
+
+.text.child {
+    color: red;
+}
+
+.text {
+    color: green;
+}
+
+#confirm-button {
+    color: white;
+    background-color: green;
+    font-size: 28px;
+}
+
+#cancel-button {
+    color: black;
+    background-color: white;
+    font-size: 28px;
+}
