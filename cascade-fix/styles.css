@@ -1,9 +1,11 @@
 .para {
     color: red;
+    
 }
 
-.text.child {
+.text .child {
     color: red;
+    font-size: 12px;
 }
 
 .text {
@@ -14,10 +16,15 @@
     color: white;
     background-color: green;
     font-size: 28px;
+    font-weight: bold;
 }
 
 #cancel-button {
     color: black;
     background-color: white;
     font-size: 28px;
+}
+
+.para.small-para {
+    font-size: 12px;
 }
