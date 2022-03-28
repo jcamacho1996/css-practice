@@ -1,0 +1,37 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.one {
+    align-items: center;
+    background-color: lightcoral;
+    padding: 32px;
+    box-sizing: border-box;
+    display: block;
+    border: 3px solid blue;
+    margin: 12px;
+
+}
+
+.two {
+
+    background-color: plum;
+    border: 3px solid black;
+
+}
+
+.three {
+
+    background-color: orange;
+    display: inline-block;
+    margin: 48px;
+    padding: 32px;
+    margin-left: 325px;
+    width: 200px;
+    border: 3px solid red;
+   
+    
+    
+}
